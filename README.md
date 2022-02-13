@@ -6,5 +6,5 @@ File details are provided below:
     c. At_NCBI_80_50_Gene_WGCNA_DS4_MC01_Edges_cytoscape.tsv - Whole WGCNA network file.  
     d. Supplementary_materials.zip - All associated supplementary materials.  
 1. Script for Gene ontology analysis are hosted at: https://github.com/djburks/FullGO  
-2. Script for Identification of modules enriched in differentially expressing genes under stress conditions are hosted at: 
+2. Script for Identification of modules enriched in differentially expressing genes under stress conditions are hosted at: https://github.com/Ronika19/Arabidopsis
 
